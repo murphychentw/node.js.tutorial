@@ -1,0 +1,15 @@
+{
+  "name": "node.js.tutorial",
+  "version": "1.0.0",
+  "main": "express_sample.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Murphy Chen <murphychen@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "description": ""
+}
